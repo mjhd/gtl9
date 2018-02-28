@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="1000"
+   width="1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pinterest-white.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="865"
+     inkscape:window-height="547"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.236"
+     inkscape:cx="257.41525"
+     inkscape:cy="500"
+     inkscape:window-x="271"
+     inkscape:window-y="114"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <path
+     transform="translate(187.5, 0)"
+     d="M331.25 96q128.75 0 211.25 78.75t82.5 186.25q0 138.75 -70 228.75t-180 90q-36.25 0 -68.75 -17.5t-45 -41.25q-26.25 107.5 -32.5 127.5 -20 72.5 -83.75 152.5 -7.5 7.5 -10 -2.5 -15 -106.25 1.25 -176.25l58.75 -253.75q-15 -28.75 -15 -72.5 0 -51.25 26.25 -85.625t63.75 -34.375q30 0 46.25 19.375t16.25 49.375q0 18.75 -6.875 45.625t-18.125 62.5 -16.25 56.875q-8.75 36.25 13.75 63.125t60 26.875q63.75 0 105 -72.5t41.25 -175q0 -78.75 -50.625 -128.125t-141.875 -49.375q-102.5 0 -165.625 65.625t-63.125 156.875q0 53.75 31.25 91.25 10 12.5 6.25 25 -1.25 2.5 -3.125 13.125t-3.125 15 -5 13.125 -8.75 8.125 -12.5 -.625q-95 -38.75 -95 -176.25 0 -110 88.75 -200t242.5 -90z"
+     id="path4"
+     style="fill:#ffffff" />
+</svg>

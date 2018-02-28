@@ -1,0 +1,174 @@
+/*
+	Theme Name: HTML5 Blank
+	Theme URI: http://html5blank.com
+	Description: HTML5 Blank WordPress Theme
+	Version: 1.4.3
+	Author: Todd Motto (@toddmotto)
+	Author URI: http://toddmotto.com
+	Tags: Blank, HTML5, CSS3
+
+	License: MIT
+	License URI: http://opensource.org/licenses/mit-license.php
+*/
+
+/*------------------------------------*\
+    MAIN
+\*------------------------------------*/
+
+
+[role="button"], input[type="submit"], input[type="reset"], input[type="button"],
+button {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box; }
+
+input[type="submit"], input[type="reset"], input[type="button"], button {
+	background: none;
+	border: 0;
+	color: inherit;
+	font: inherit;
+	line-height: normal;
+	overflow: visible;
+	padding: 0;
+	-webkit-appearance: button;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none; }
+
+input::-moz-focus-inner, button::-moz-focus-inner {
+	border: 0;
+	padding: 0; }
+
+[role="button"] {
+	color: inherit;
+	cursor: default;
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+	white-space: pre;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none; }
+
+body {
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden; }
+body > div:nth-of-type(1) {
+	display: block;
+	margin: 12px auto;
+	width: 90%;
+	margin-bottom: 20px;
+	padding: 0;
+	outline: solid 1px red;
+	max-width: 1000px; }
+body > div:nth-of-type(1) span:nth-of-type(1) {
+	display: inline-block;
+	width: 33%;
+	height: 150px;
+	margin-left: 2%;
+	padding: 1%;
+	margin: 20px 2%;
+	outline: solid 1px green; }
+body > div:nth-of-type(1) span:nth-of-type(2) {
+	display: inline-block;
+	width: 55%;
+	height: 150px;
+	margin-left: 4%;
+	padding: 1%;
+	margin: 20px 2%;
+	outline: solid 1px green; }
+body > nav {
+	outline: solid 1px purple;
+	width: 100%;
+	height: 50px;
+	margin-bottom: 10px;
+	position: relative;
+	padding: 10px 0; }
+body > nav > * {
+	display: inline-block;
+	position: absolute; }
+body > nav input {
+	height: 15px;
+	padding: 10px 3px;
+	width: calc(80% - 62px);
+	right: 62px;
+	top: 12px; }
+body > nav button {
+	height: 50px;
+	width: 50px;
+	right: 12px;
+	outline: solid 1px yellow; }
+body section {
+	max-width: 1000px;
+	margin: auto;
+	overflow: visible;
+	padding-bottom: 170px;
+	width: 100%; }
+body section > * {
+	float: left; }
+body section div {
+	display: inline-block;
+	width: 25.75%;
+	margin: 12px 1.75%;
+	padding: 10px 2%;
+	outline: solid 1px red; }
+body section div > span {
+	padding: 8%;
+	margin: 5% auto;
+	outline: solid 1px green;
+	width: 85%;
+	display: block;
+	height: 80px; }
+body section div > span:nth-of-type(2) {
+	height: 180px; }
+body section div:nth-of-type(7n + 7) {
+	position: relative;
+	left: -2%;
+	width: 96%;
+	margin: 12px 2%; }
+body section div:nth-of-type(7n + 7) > h3 {
+	font-size: 18px;
+	margin: 12px 0; }
+body section div:nth-of-type(7n + 7) > aside {
+	width: 50px;
+	height: 50px;
+	outline: solid 1px yellow;
+	position: absolute;
+	left: 10px;
+	bottom: 87px; }
+body section div:nth-of-type(7n + 7) > aside:nth-of-type(2) {
+	left: initial;
+	right: 10px; }
+body section div:nth-of-type(7n + 7) > span {
+	display: inline-block;
+	width: 25.75%;
+	height: 150px;
+	margin: 12px 1.75%;
+	padding: 10px 2%;
+	outline: solid 1px green; }
+body section div:last-child {
+	margin-bottom: 150px; }
+body footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	padding: 0 2%;
+	background: rgba(128, 128, 128, 0.42);
+	outline: solid 1px #666; }
+body footer > div {
+	float: left;
+	height: 60px;
+	padding: 1%;
+	margin: 5px 1%;
+	text-align: center;
+	outline: solid 1px blue; }
+body footer > div:nth-of-type(1) {
+	position: relative;
+	width: 468px;
+	height: 60px; }
+body footer > div:nth-of-type(2) {
+	width: calc(36% - 234px); }
+body footer > div:nth-of-type(3) {
+	width: calc(48% - 234px); }
