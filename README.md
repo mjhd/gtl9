@@ -1,5 +1,5 @@
-#GidgertTechlist9 WordPress Theme
-##Built on HTML5blank starter theme:
+# GidgertTechlist9 WordPress Theme
+## Built on HTML5blank starter theme:
 
 #
 
