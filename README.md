@@ -1,4 +1,9 @@
-# [HTML5 Blank](http://html5blank.com)
+#GidgertTechlist9 WordPress Theme
+##Built on HTML5blank starter theme:
+
+#
+
+### [HTML5 Blank](http://html5blank.com)
 
 Powerful shell for rapidly deploying your WordPress projects.
 
