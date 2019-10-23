@@ -1,4 +1,4 @@
-# GidgertTechlist9 WordPress Theme
+# GidgetTechlist9 WordPress Theme
 ## Built on HTML5blank starter theme:
 
 #
